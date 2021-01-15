@@ -28,3 +28,4 @@ public class employee1 {
                 System.out.println(String.format("FIO: %s, Position: %s, Email: %s,Phone: %s, Value: %s,Age: %s",fio,position,email,phone,value,age));
         }
 }
+
